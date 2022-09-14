@@ -35,6 +35,7 @@ config.txt
 .idea/
 *.iml
 *.iws
+out/
 
 # Maven
 log/
