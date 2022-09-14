@@ -25,6 +25,7 @@ replay_pid*
 
 #Out files
 *.xlsx
+*.xls
 
 #Config files
 *cfg
@@ -38,4 +39,7 @@ config.txt
 # Maven
 log/
 target/
+
+#runJava scripts
+*.bat
 
