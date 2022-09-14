@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+kutuzov.soc_tools.Main-Class: kutuzov.soc_tools.Main
+

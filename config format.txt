@@ -1,0 +1,5 @@
+Provider URL:
+ldap://dc:389
+
+LDAP catalog list:
+OU=Catalog,OU=topCatalog1,DC=domain,DC=local
